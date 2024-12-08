@@ -1,12 +1,12 @@
 # go-vector
 A Vector library for 2D and 3D applications.
 
-[![github-actions](https://github.com/deeean/go-vector/actions/workflows/ci.yml/badge.svg)](https://github.com/deeean/go-vector)
-[![codecov](https://codecov.io/gh/deeean/go-vector/branch/master/graph/badge.svg?token=ITVBDT948V)](https://codecov.io/gh/deeean/go-vector)
+[![github-actions](https://github.com/joshlarsen/go-vector/actions/workflows/ci.yml/badge.svg)](https://github.com/joshlarsen/go-vector)
+[![codecov](https://codecov.io/gh/joshlarsen/go-vector/branch/main/graph/badge.svg?token=ITVBDT948V)](https://codecov.io/gh/joshlarsen/go-vector)
 
 ## Installation
 ```shell
-go get -u github.com/deeean/go-vector/[vector3|vector2]
+go get -u github.com/joshlarsen/go-vector/[vector3|vector2]
 ```
 
 ## Usage
@@ -15,7 +15,7 @@ package main
 
 import (
 	"fmt"
-	"github.com/deeean/go-vector/vector3"
+	"github.com/joshlarsen/go-vector/vector3"
 )
 
 func main() {
